@@ -1,0 +1,18 @@
+{
+  "note": [
+    {"lang":"en","text":"Real-time 6-player VERSUS mode!\nInvite friends with a room code."},
+    {"lang":"ko","text":"실시간 6인 대결 모드 추가!\n방 코드로 친구도 초대하세요."},
+    {"lang":"ja","text":"リアルタイム6人対戦モード登場！\n友だちもルームコードで招待！"},
+    {"lang":"de","text":"Neu: DUELL-Modus mit\n6 Spielern in Echtzeit!\nFreunde per Raumcode einladen."},
+    {"lang":"fr","text":"Nouveau mode DUEL :\n6 joueurs en temps réel !\nInvitez vos amis avec un code."},
+    {"lang":"es","text":"¡Nuevo modo DUELO:\n6 jugadores en tiempo real!\nInvita a amigos con un código."},
+    {"lang":"pt-BR","text":"Novo modo DUELO:\n6 jogadores em tempo real!\nConvide amigos com um código."},
+    {"lang":"it","text":"Nuova modalità SFIDA:\n6 giocatori in tempo reale!\nInvita gli amici con un codice."},
+    {"lang":"zh-Hant","text":"全新即時 6 人對戰模式！\n還能用房間代碼邀請朋友。"},
+    {"lang":"zh-Hans","text":"全新实时 6 人对战模式！\n还能用房间码邀请好友。"}
+  ],
+  "platforms": [
+    {"os":"android","min":"1.0.0"},
+    {"os":"ios","min":"1.0.0"}
+  ]
+}
