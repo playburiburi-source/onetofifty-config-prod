@@ -1,18 +1,19 @@
 {
   "note": [
-    {"lang":"en","text":"Real-time 6-player VERSUS mode!\nInvite friends with a room code."},
-    {"lang":"ko","text":"실시간 6인 대결 모드 추가!\n방 코드로 친구도 초대하세요."},
-    {"lang":"ja","text":"リアルタイム6人対戦モード登場！\n友だちもルームコードで招待！"},
-    {"lang":"de","text":"Neu: DUELL-Modus mit\n6 Spielern in Echtzeit!\nFreunde per Raumcode einladen."},
-    {"lang":"fr","text":"Nouveau mode DUEL :\n6 joueurs en temps réel !\nInvitez vos amis avec un code."},
-    {"lang":"es","text":"¡Nuevo modo DUELO:\n6 jugadores en tiempo real!\nInvita a amigos con un código."},
-    {"lang":"pt-BR","text":"Novo modo DUELO:\n6 jogadores em tempo real!\nConvide amigos com um código."},
-    {"lang":"it","text":"Nuova modalità SFIDA:\n6 giocatori in tempo reale!\nInvita gli amici con un codice."},
-    {"lang":"zh-Hant","text":"全新即時 6 人對戰模式！\n還能用房間代碼邀請朋友。"},
-    {"lang":"zh-Hans","text":"全新实时 6 人对战模式！\n还能用房间码邀请好友。"}
+    {"lang":"en","text":"New skin SWEET is here!\nFinish one duel with a friend\nin an invite room to unlock it."},
+    {"lang":"ko","text":"새 스킨「달콤」이 나왔어요!\n친구와 초대 방에서\n대결 한 판이면 열려요."},
+    {"lang":"ja","text":"新スキン「スイート」登場！\n友だちと招待ルームで\n1戦すると解放されます。"},
+    {"lang":"de","text":"Neuer Skin SÜSS!\nBeende ein Duell mit einem Freund\nin einem privaten Raum,\num ihn freizuschalten."},
+    {"lang":"fr","text":"Nouveau skin SUCRÉ !\nTerminez un duel avec un ami\ndans un salon privé\npour le débloquer."},
+    {"lang":"es","text":"¡Nuevo aspecto DULCE!\nTermina un duelo con un amigo\nen una sala privada\npara desbloquearlo."},
+    {"lang":"pt-BR","text":"Nova skin DOCE!\nTermine um duelo com um amigo\nem uma sala privada\npara desbloquear."},
+    {"lang":"it","text":"Nuova skin DOLCE!\nConcludi una sfida con un amico\nin una stanza privata\nper sbloccarla."},
+    {"lang":"zh-Hant","text":"新造型「甜蜜」登場！\n和朋友在好友房\n完成一場對戰即可解鎖。"},
+    {"lang":"zh-Hans","text":"新皮肤「甜蜜」上线！\n和朋友在好友房\n完成一场对战即可解锁。"},
+    {"lang":"ru","text":"Новый скин «СЛАДКОЕ»!\nЗавершите дуэль с другом\nв приватной комнате,\nчтобы открыть его."}
   ],
   "platforms": [
-    {"os":"android","min":"1.0.0"},
-    {"os":"ios","min":"1.0.0"}
+    {"os":"android","min":"2.0.0"},
+    {"os":"ios","min":"2.0.0"}
   ]
 }
