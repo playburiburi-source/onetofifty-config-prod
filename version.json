@@ -12,8 +12,21 @@
     {"lang":"zh-Hans","text":"新皮肤「甜蜜」上线！\n和朋友在好友房\n完成一场对战即可解锁。"},
     {"lang":"ru","text":"Новый скин «СЛАДКОЕ»!\nЗавершите дуэль с другом\nв приватной комнате,\nчтобы открыть его."}
   ],
+  "news": [
+    {"lang":"en","text":"New skins NIGHT SEA\nand KELP FOREST!\nSWEET is now unlocked\nfor everyone."},
+    {"lang":"ko","text":"새 스킨「밤바다」와\n「해초숲」이 나왔어요!\n「달콤」은 이제\n누구나 쓸 수 있어요."},
+    {"lang":"ja","text":"新スキン「夜の海」と\n「海藻の森」が登場！\n「スイート」が\n全員に解放されました。"},
+    {"lang":"de","text":"Neue Skins NACHTMEER\nund TANGWALD!\nSÜSS ist jetzt\nfür alle freigeschaltet."},
+    {"lang":"fr","text":"Nouveaux skins MER NOCTURNE\net FORÊT D'ALGUES !\nSUCRÉ est désormais\ndébloqué pour tous."},
+    {"lang":"es","text":"¡Nuevos aspectos MAR NOCTURNO\ny BOSQUE MARINO!\nDULCE ya está\ndesbloqueado para todos."},
+    {"lang":"pt-BR","text":"Novas skins MAR NOTURNO\ne FLORESTA MARINHA!\nDOCE agora está\nliberada para todos."},
+    {"lang":"it","text":"Nuove skin MARE DI NOTTE\ne FORESTA MARINA!\nDOLCE ora è\nsbloccata per tutti."},
+    {"lang":"zh-Hant","text":"新造型「夜海」與\n「海藻林」登場！\n「甜蜜」現在\n所有人都能使用。"},
+    {"lang":"zh-Hans","text":"新皮肤「夜海」和\n「海藻林」上线！\n「甜蜜」现在\n所有人都能使用。"},
+    {"lang":"ru","text":"Новые скины «НОЧНОЕ МОРЕ»\nи «ПОДВОДНЫЙ ЛЕС»!\nСкин «СЛАДКОЕ» теперь\nоткрыт для всех."}
+  ],
   "platforms": [
-    {"os":"android","min":"2.0.0"},
-    {"os":"ios","min":"2.0.0"}
+    {"os":"android","min":"2.0.0","latest":"2.0.3"},
+    {"os":"ios","min":"2.0.0","latest":"2.0.3"}
   ]
 }
