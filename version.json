@@ -13,20 +13,20 @@
     {"lang":"ru","text":"Новый скин «СЛАДКОЕ»!\nЗавершите дуэль с другом\nв приватной комнате,\nчтобы открыть его."}
   ],
   "news": [
-    {"lang":"en","text":"New skins NIGHT SEA\nand KELP FOREST!\nSWEET is now unlocked\nfor everyone."},
-    {"lang":"ko","text":"새 스킨「밤바다」와\n「해초숲」이 나왔어요!\n「달콤」은 이제\n누구나 쓸 수 있어요."},
-    {"lang":"ja","text":"新スキン「夜の海」と\n「海藻の森」が登場！\n「スイート」が\n全員に解放されました。"},
-    {"lang":"de","text":"Neue Skins NACHTMEER\nund TANGWALD!\nSÜSS ist jetzt\nfür alle freigeschaltet."},
-    {"lang":"fr","text":"Nouveaux skins MER NOCTURNE\net FORÊT D'ALGUES !\nSUCRÉ est désormais\ndébloqué pour tous."},
-    {"lang":"es","text":"¡Nuevos aspectos MAR NOCTURNO\ny BOSQUE MARINO!\nDULCE ya está\ndesbloqueado para todos."},
-    {"lang":"pt-BR","text":"Novas skins MAR NOTURNO\ne FLORESTA MARINHA!\nDOCE agora está\nliberada para todos."},
-    {"lang":"it","text":"Nuove skin MARE DI NOTTE\ne FORESTA MARINA!\nDOLCE ora è\nsbloccata per tutti."},
-    {"lang":"zh-Hant","text":"新造型「夜海」與\n「海藻林」登場！\n「甜蜜」現在\n所有人都能使用。"},
-    {"lang":"zh-Hans","text":"新皮肤「夜海」和\n「海藻林」上线！\n「甜蜜」现在\n所有人都能使用。"},
-    {"lang":"ru","text":"Новые скины «НОЧНОЕ МОРЕ»\nи «ПОДВОДНЫЙ ЛЕС»!\nСкин «СЛАДКОЕ» теперь\nоткрыт для всех."}
+    {"lang":"en","text":"New skin ANIMAL PALS is here!\nA cat, an owl and a sheep are waiting."},
+    {"lang":"ko","text":"새 스킨 동물 친구들이 나왔어요!\n고양이, 부엉이, 양이 기다려요."},
+    {"lang":"ja","text":"新スキン「どうぶつフレンズ」登場！\nネコ、フクロウ、ヒツジが\n待ってるよ。"},
+    {"lang":"de","text":"Neuer Skin: TIERFREUNDE!\nKatze, Eule und Schaf warten schon."},
+    {"lang":"fr","text":"Nouveau skin : AMIS ANIMAUX !\nChat, hibou et mouton\nvous attendent."},
+    {"lang":"es","text":"¡Nuevo aspecto:\nAMIGOS ANIMALES!\nTe esperan un gato,\nun búho y una oveja."},
+    {"lang":"pt-BR","text":"Nova skin: AMIGOS ANIMAIS!\nGato, coruja e ovelha\nestão te esperando."},
+    {"lang":"it","text":"Nuova skin: AMICI ANIMALI!\nGatto, gufo e pecora ti aspettano."},
+    {"lang":"zh-Hant","text":"新造型「動物朋友」登場！\n貓咪、貓頭鷹和綿羊在等你喔。"},
+    {"lang":"zh-Hans","text":"新皮肤「动物朋友」上线啦！\n小猫、猫头鹰和小羊在等你哦。"},
+    {"lang":"ru","text":"Новый скин\n«ДРУЗЬЯ-ЗВЕРЯТА»!\nКотик, сова и овечка уже ждут."}
   ],
   "platforms": [
-    {"os":"android","min":"2.0.0","latest":"2.0.3"},
-    {"os":"ios","min":"2.0.0","latest":"2.0.3"}
+    {"os":"android","min":"2.0.0","latest":"2.0.6"},
+    {"os":"ios","min":"2.0.0"}
   ]
 }
