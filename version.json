@@ -27,6 +27,6 @@
   ],
   "platforms": [
     {"os":"android","min":"2.0.0","latest":"2.0.6"},
-    {"os":"ios","min":"2.0.0"}
+    {"os":"ios","min":"2.0.0","latest":"2.0.6"}
   ]
 }
